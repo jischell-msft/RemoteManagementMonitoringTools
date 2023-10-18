@@ -1,10 +1,14 @@
 # RemoteManagementMonitoringTools
-Collection of Remote Management Monitoring tool artifacts, for assisting forensics and investigations
+Remote Monitoring and Management (RMM) software programs and services are often used by Enterprise and SMB IT to provide management and monitoring of remote endpoints. 
+
+Attackers have also begun to abuse these programs and services as means to maintain persistance or provide fall back command and control channels. A number of threat groups with varied and diverse goals, have been observed using RMM products to achieve missons of espionage, data theft, and ransomware.
+
+This collection of Remote Management Monitoring tool artifacts is focused on providing defenders and investigators with up-to-date indicators and context.
 
 
-
+---
 ### Tool List
-- Action1
+- [Action1] (\RMM\Action1\RMM_Summary_Action1.md)
 - Addigy
 - AeroAdmin
 - Ammyy
