@@ -1,7 +1,6 @@
 # Advanced Hunting Query for Action1
 
-
-## Create Process 
+### Create Process 
 ```
 let Time_start = now(-5d);
 let Time_end = now();
@@ -18,7 +17,7 @@ DeviceProcessEvents
 rmmProcess
 ```
 
-## File Signature
+### File Signature
 ```
 let Time_start = now(-5d);
 let Time_end = now();
@@ -34,7 +33,7 @@ DeviceFileCertificateInfo
 rmmFileSig
 ```
 
-## Network Connection
+### Network Connection
 ```
 let Time_start = now(-5d);
 let Time_end = now();
