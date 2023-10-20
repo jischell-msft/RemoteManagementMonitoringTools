@@ -7,8 +7,8 @@
 - 
 
 ### Process Indicators
-- 
-- 
+- PE Company name: Action1
+- PE Product name: Action1
 - 
 
 ### Network Indicators
@@ -17,6 +17,6 @@
 -
 
 ### File Signature Indicators
-- Action1
+- Action1 Corporation
 -
 -
