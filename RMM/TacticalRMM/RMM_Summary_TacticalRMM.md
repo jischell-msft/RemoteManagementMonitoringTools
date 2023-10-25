@@ -17,6 +17,7 @@
 -
 
 ### File Signature Indicators
-- 
+- AmidaWare 
+- Tactical Techs
 -
 -

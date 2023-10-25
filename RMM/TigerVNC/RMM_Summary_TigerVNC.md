@@ -7,8 +7,8 @@
 - 
 
 ### Process Indicators
-- 
-- 
+- Company: TigerVNC
+- Product: TigerVNC
 - 
 
 ### Network Indicators
@@ -16,7 +16,3 @@
 - 
 -
 
-### File Signature Indicators
-- 
--
--
