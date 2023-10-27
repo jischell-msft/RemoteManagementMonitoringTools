@@ -1,5 +1,5 @@
-title: Remote Management and Monitoring tool - Action1
-id: fc5a198b-8138-4f99-95fd-138362135786
+title: Remote Management and Monitoring tool - AeroAdmin
+id: be086d72-2884-4c53-b648-0705f3dff237
 status: experimental
 description: |
     Remote Monitoring and Management (RMM) software programs and services are often used by Enterprise and SMB IT to provide management and monitoring of remote endpoints.
@@ -13,10 +13,15 @@ logsource:
     category: process_creation
     product: windows
 detection:
-    selection:
-        - Product|contains: 'Action1'
-        - Company|contains: 'Action1'
-    condition: selection
+    company_var1:
+        - Company|contains: 'AeroAdmin'
+    company_var2:
+        - Company|contains: 'Aero Admin'
+    product_var1:
+        - Product|contains: 'AeroAdmin'
+    product_var2:
+        - Product|contains: 'Aero Admin'
+    condition: 1 of company_* and 1 of product_*
 falsepositives:
-    - Legitimate use of the RMM tool Action1
+    - Legitimate use of the RMM tool AeroAdmin
 level: high

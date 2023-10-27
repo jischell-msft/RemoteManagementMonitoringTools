@@ -1,5 +1,5 @@
-title: Remote Management and Monitoring tool - Action1
-id: fc5a198b-8138-4f99-95fd-138362135786
+title: Remote Management and Monitoring tool - AnyViewer
+id: f2be3316-8541-44e9-b6bc-5d0ccdab1703
 status: experimental
 description: |
     Remote Monitoring and Management (RMM) software programs and services are often used by Enterprise and SMB IT to provide management and monitoring of remote endpoints.
@@ -14,9 +14,9 @@ logsource:
     product: windows
 detection:
     selection:
-        - Product|contains: 'Action1'
-        - Company|contains: 'Action1'
+        - Company|contains: 'AOMEI'
+        - Product|contains: 'AnyViewer'
     condition: selection
 falsepositives:
-    - Legitimate use of the RMM tool Action1
+    - Legitimate use of the RMM tool AnyViewer
 level: high

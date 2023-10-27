@@ -1,5 +1,5 @@
-title: Remote Management and Monitoring tool - Action1
-id: fc5a198b-8138-4f99-95fd-138362135786
+title: Remote Management and Monitoring tool - Ammyy
+id: 36c77df8-fe22-445f-b5e1-12dc139bdf4f
 status: experimental
 description: |
     Remote Monitoring and Management (RMM) software programs and services are often used by Enterprise and SMB IT to provide management and monitoring of remote endpoints.
@@ -14,9 +14,9 @@ logsource:
     product: windows
 detection:
     selection:
-        - Product|contains: 'Action1'
-        - Company|contains: 'Action1'
+        - Product|contains: 'Ammyy Admin'
+        - Company|contains: 'Ammyy'
     condition: selection
 falsepositives:
-    - Legitimate use of the RMM tool Action1
+    - Legitimate use of the RMM tool Ammyy
 level: high
