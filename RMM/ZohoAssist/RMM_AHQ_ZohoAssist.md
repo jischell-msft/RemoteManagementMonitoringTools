@@ -60,7 +60,7 @@ DeviceNetworkEvents
         'static.zohocdn.com',		
         'zohodl.com.cn',			
         'zohowebstatic.com',		
-        'zohostatic.in',			
+        'zohostatic.in'		
     )
     and InitiatingProcessVersionInfoCompanyName has 'Zoho'
     and InitiatingProcessVersionInfoProductName has 'Zoho Assist'
