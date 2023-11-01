@@ -58,7 +58,7 @@ DeviceNetworkEvents
         'client.rmm.mspbackups.com',// MSP360
         'settings.services.mspbackups.com',	// MSP360
         'connect.ra.msp360.com',	// MSP360	
-        'foris.cloudberrylab.com',	// MSP360
+        'foris.cloudberrylab.com'	// MSP360
     )
     and InitiatingProcessVersionInfoCompanyName has_any (
         'CloudBerry',
