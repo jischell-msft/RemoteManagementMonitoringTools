@@ -61,6 +61,7 @@ This collection of Remote Management Monitoring tool artifacts is focused on pro
 - [Splashtop](RMM/Splashtop/RMM_Summary_Splashtop.md)
 - [SupRemo](RMM/SupRemo/RMM_Summary_SupRemo.md)
 - [SyncroMSP](RMM/SyncroMSP/RMM_Summary_SyncroMSP.md)
+- [Syspectr](RMM/Syspectr/RMM_Summary_Syspectr.md)
 - [TacticalRMM](RMM/TacticalRMM/RMM_Summary_TacticalRMM.md)
 - [TeamViewer](RMM/TeamViewer/RMM_Summary_TeamViewer.md)
 - [TigerVNC](RMM/TigerVNC/RMM_Summary_TigerVNC.md)
