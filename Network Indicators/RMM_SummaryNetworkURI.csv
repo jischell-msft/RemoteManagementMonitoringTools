@@ -3,16 +3,16 @@ server.action1.com,action1
 prod.addigy.com,addigy
 grtmprod.addigy.com,addigy
 agents.addigy.com,addigy
-aeroadmin.com,aeroadmin    
+aeroadmin.com,aeroadmin
 ammyy.com,ammyy
 anydesk.com,anydesk
 api.playanext.com,anydesk
 anyviewer.com,anyviewer
 anyviewer.cn,anyviewer
-aomeisoftware.com,anyviewer    
+aomeisoftware.com,anyviewer
 aomeikeji.com,anyviewer
 atera.com,atera
-atera-agent-heartbeat,atera    
+atera-agent-heartbeat,atera
 aweray.com,aweray
 aweray.net,aweray
 awerayimg.com,aweray
@@ -54,9 +54,13 @@ iperius-r4.com,Iperius Remote
 iperiusremote.de,Iperius Remote
 entersrl.it,Iperius Remote
 islonline.net,ISL Online
+xmpp.itsm-us1.comodo.com,Itarian
+xmpp.cmdm.comodo.com,Itarian
+rmm-api.itsm-us1.comodo.com,Itarian
+rmm-api.cmdm.comodo.com,Itarian
 kaseya.com,Kaseya VSA
 stun.kaseya.com,Kaseya VSA
-managedsupport.kaseya.net, Kaseya VSA
+managedsupport.kaseya.net,Kaseya VSA
 kaseya.net,Kaseya VSA
 agents.level.io,level.io
 online.level.io,level.io
@@ -77,7 +81,7 @@ logmeininc.com,LogMeIn
 logme.in,LogMeIn
 getgo.com,LogMeIn
 goto.com,LogMeIn
-goto-rtc.com,LogMeIn    
+goto-rtc.com,LogMeIn
 gotomypc.com,LogMeIn
 logmeincdn.http.internapcdn.net,LogMeIn
 logmein-gateway.com,LogMeIn
@@ -86,7 +90,7 @@ mremoteng.org,mRemoteNG
 rm.mspbackups.com,MSP360
 client.rmm.mspbackups.com,MSP360
 settings.services.mspbackups.com,MSP360
-connect.ra.msp360.com,MSP360    
+connect.ra.msp360.com,MSP360
 foris.cloudberrylab.com,MSP360
 remote.management,N-Able
 logicnow.com,N-Able
@@ -109,8 +113,8 @@ kessel-api.parsec.app,parsec
 builds.parsec.app,parsec
 builds.parsecgaming.com,parsec
 public.parsec.app,parsec
-parsecusercontent.com,parsec    
-stun.parsec.app,parsec    
+parsecusercontent.com,parsec
+stun.parsec.app,parsec
 stun6.parsec.app,parsec
 pcvisit.de,pcvisit
 cloudflare-pcvisit.com,pcvisit
@@ -134,6 +138,12 @@ supremocontrol.com,SupRemo
 syncromsp.com,SynchroMSP
 servably.com,SynchroMSP
 syncroapi.com,SynchroMSP
+atled.syspectr.com,Syspectr
+notify1.syspectr.com,Syspectr
+cdn.syspectr.com,Syspectr
+app.syspectr.com,Syspectr
+tm.syspectr.com,Syspectr
+console.syspectr.com,Syspectr
 icanhazip.tacticalrmm.io,TacticalRMM
 tacticalrmm.io,TacticalRMM
 teamviewer.com,TeamViewer
