@@ -31,6 +31,7 @@ This collection of Remote Management Monitoring tool artifacts is focused on pro
 - [IperiusRemote](RMM/IperiusRemote/RMM_Summary_IperiusRemote.md)
 - [ISLOnline](RMM/ISLOnline/RMM_Summary_ISLOnline.md)
 - [Itarian](RMM/Itarian/RMM_Summary_Itarian.md)
+- [JumpCloud](RMM/JumpCloud/RMM_Summary_JumpCloud.md)
 - [Kaseya](RMM/Kaseya/RMM_Summary_Kaseya.md)
 - [Level](RMM/Level/RMM_Summary_Level.md)
 - [LiteManager](RMM/LiteManager/RMM_Summary_LiteManager.md)
