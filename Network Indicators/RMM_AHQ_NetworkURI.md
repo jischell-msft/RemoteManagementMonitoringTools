@@ -64,6 +64,8 @@ let rmm_networkSet = datatable(URI:string,RMM_Tool:string)[
     'xmpp.cmdm.comodo.com','Itarian',
     'rmm-api.itsm-us1.comodo.com','Itarian',
     'rmm-api.cmdm.comodo.com','Itarian',
+    'assist.jumpcloud.com','JumpCloud',
+    'api.jumpcloud.com','JumpCloud',
     'kaseya.com','Kaseya VSA',
     'stun.kaseya.com','Kaseya VSA',
     'managedsupport.kaseya.net','Kaseya VSA',
