@@ -65,6 +65,7 @@ This collection of Remote Management Monitoring tool artifacts is focused on pro
 - [Syspectr](RMM/Syspectr/RMM_Summary_Syspectr.md)
 - [TacticalRMM](RMM/TacticalRMM/RMM_Summary_TacticalRMM.md)
 - [TeamViewer](RMM/TeamViewer/RMM_Summary_TeamViewer.md)
+- [TechInline](RMM/TechInline/RMM_Summary_TechInline.md)
 - [TigerVNC](RMM/TigerVNC/RMM_Summary_TigerVNC.md)
 - [TightVNC](RMM/TightVNC/RMM_Summary_TightVNC.md)
 - [UltraViewer](RMM/UltraViewer/RMM_Summary_UltraViewer.md)
