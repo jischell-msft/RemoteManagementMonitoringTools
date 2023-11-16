@@ -1,7 +1,7 @@
 ---
 name: Additional RMM tool
 about: Suggest detection coverage for a RMM tool
-title: ''
+title: "Additional RMM tool: [RMM tool name]"
 labels: enhancement
 assignees: ''
 
