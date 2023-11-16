@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-# Additional RMM tool: [RMM tool name]
-Suggest detection coverage for a RMM tool
----
+
 - Provide name of tool in title
 - RMM tool website:
