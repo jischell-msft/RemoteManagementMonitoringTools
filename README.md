@@ -17,6 +17,7 @@ This collection of Remote Management Monitoring tool artifacts is focused on pro
 - [AnyplaceControl](RMM/AnyplaceControl/RMM_Summary_AnyplaceControl.md)
 - [AnyViewer](RMM/AnyViewer/RMM_Summary_AnyViewer.md)
 - [Atera](RMM/Atera/RMM_Summary_Atera.md)
+- [Auvik](RMM/Auvik/RMM_Summary_Auvik.md)
 - [AweSun](RMM/AweSun/RMM_Summary_AweSun.md)
 - [BarracudaRMM](RMM/BarracudaRMM/RMM_Summary_BarracudaRMM.md)
 - [BeamYourScreen](RMM/BeamYourScreen/RMM_Summary_BeamYourScreen.md)
