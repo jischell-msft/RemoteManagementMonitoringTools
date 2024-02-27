@@ -20,6 +20,7 @@ This collection of Remote Management Monitoring tool artifacts is focused on pro
 - [AweSun](RMM/AweSun/RMM_Summary_AweSun.md)
 - [BarracudaRMM](RMM/BarracudaRMM/RMM_Summary_BarracudaRMM.md)
 - [BeamYourScreen](RMM/BeamYourScreen/RMM_Summary_BeamYourScreen.md)
+- [BeAnywhere](RMM/BeAnywhere/RMM_Summary_BeAnywhere.md)
 - [BeyondTrust](RMM/BeyondTrust/RMM_Summary_BeyondTrust.md)
 - [BlueTrait.io](RMM/BlueTrait.io/RMM_Summary_BlueTrait.io.md)
 - [ChromeRDP](RMM/ChromeRDP/RMM_Summary_ChromeRDP.md)
