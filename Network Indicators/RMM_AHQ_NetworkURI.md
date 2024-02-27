@@ -10,6 +10,8 @@ let rmm_networkSet = datatable(URI:string,RMM_Tool:string)[
     'grtmprod.addigy.com','addigy',
     'agents.addigy.com','addigy',
     'aeroadmin.com','aeroadmin',
+    'alpemix.com','alpemix',
+    'teknopars.com','alpemix',
     'ammyy.com','ammyy',
     'anydesk.com','anydesk',
     'api.playanext.com','anydesk',
