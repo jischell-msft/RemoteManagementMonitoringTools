@@ -14,6 +14,7 @@ This collection of Remote Management Monitoring tool artifacts is focused on pro
 - [Alpemix](RMM/Alpemix/RMM_Summary_Alpemix.md)
 - [Ammyy](RMM/Ammyy/RMM_Summary_Ammyy.md)
 - [AnyDesk](RMM/AnyDesk/RMM_Summary_AnyDesk.md)
+- [AnyplaceControl](RMM/AnyplaceControl/RMM_Summary_AnyplaceControl.md)
 - [AnyViewer](RMM/AnyViewer/RMM_Summary_AnyViewer.md)
 - [Atera](RMM/Atera/RMM_Summary_Atera.md)
 - [AweSun](RMM/AweSun/RMM_Summary_AweSun.md)

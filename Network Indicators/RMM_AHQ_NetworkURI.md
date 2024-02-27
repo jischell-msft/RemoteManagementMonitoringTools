@@ -15,6 +15,7 @@ let rmm_networkSet = datatable(URI:string,RMM_Tool:string)[
     'ammyy.com','ammyy',
     'anydesk.com','anydesk',
     'api.playanext.com','anydesk',
+    'support.kastentornado.fi','AnyplaceControl',
     'anyviewer.com','anyviewer',
     'anyviewer.cn','anyviewer',
     'aomeisoftware.com','anyviewer',
