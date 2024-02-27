@@ -11,6 +11,7 @@ This collection of Remote Management Monitoring tool artifacts is focused on pro
 - [Action1](RMM/Action1/RMM_Summary_Action1.md)
 - [Addigy](RMM/Addigy/RMM_Summary_Addigy.md)
 - [AeroAdmin](RMM/AeroAdmin/RMM_Summary_AeroAdmin.md)
+- [Alpemix](RMM/Alpemix/RMM_Summary_Alpemix.md)
 - [Ammyy](RMM/Ammyy/RMM_Summary_Ammyy.md)
 - [AnyDesk](RMM/AnyDesk/RMM_Summary_AnyDesk.md)
 - [AnyplaceControl](RMM/AnyplaceControl/RMM_Summary_AnyplaceControl.md)
