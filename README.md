@@ -26,6 +26,7 @@ This collection of Remote Management Monitoring tool artifacts is focused on pro
 - [BlueTrait.io](RMM/BlueTrait.io/RMM_Summary_BlueTrait.io.md)
 - [ChromeRDP](RMM/ChromeRDP/RMM_Summary_ChromeRDP.md)
 - [ConnectWise](RMM/ConnectWise/RMM_Summary_ConnectWise.md)
+- [CrossLoop](RMM/CrossLoop/RMM_Summary_CrossLoop.md)
 - [DameWare](RMM/DameWare/RMM_Summary_DameWare.md)
 - [DattoRMM](RMM/DattoRMM/RMM_Summary_DattoRMM.md)
 - [DesktopNow](RMM/DesktopNow/RMM_Summary_DesktopNow.md)
