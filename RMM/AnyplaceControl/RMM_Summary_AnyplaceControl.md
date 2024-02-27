@@ -12,11 +12,12 @@
 - 
 
 ### Network Indicators
-- 
-- 
+- 'support.kastentornado.fi'
 -
 
 ### File Signature Indicators
-- 
--
--
+- 'Anyplace Control Software'
+- 'Honcharuk Yuriy',
+- 'Yuriy Honcharuk',
+- 'Yurii Honcharuk'
+
