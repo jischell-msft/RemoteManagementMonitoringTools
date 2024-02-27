@@ -11,7 +11,7 @@ DeviceFileCertificateInfo
 | where Signer has 'Datto Inc'
 | summarize FirstSeen=min(Timestamp), LastSeen=max(Timestamp), 
     Report=make_set(ReportId), Count=count() by DeviceId, DeviceName
-| extend rmmFileSigName = 'Datto' 
+| extend rmmFileSigName = 'DattoRMM' 
 ;
 rmmFileSig
 ```
@@ -42,7 +42,7 @@ DeviceNetworkEvents
 | summarize FirstSeen=min(Timestamp), LastSeen=max(Timestamp), 
     Report=make_set(ReportId), Count=count() by DeviceId, DeviceName,
     AccountUpn, RemoteUrl 
-| extend rmmNetworkName = 'Datto'
+| extend rmmNetworkName = 'DattoRMM'
 ;
 rmmNetwork
 ```
