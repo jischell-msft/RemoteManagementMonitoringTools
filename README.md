@@ -30,6 +30,7 @@ This collection of Remote Management Monitoring tool artifacts is focused on pro
 - [CrossTec](RMM/CrossTec/RMM_Summary_CrossTec.md)
 - [DameWare](RMM/DameWare/RMM_Summary_DameWare.md)
 - [DattoRMM](RMM/DattoRMM/RMM_Summary_DattoRMM.md)
+- [DeskDay](RMM/DeskDay/RMM_Summary_DeskDay.md)
 - [DesktopNow](RMM/DesktopNow/RMM_Summary_DesktopNow.md)
 - [DistantDesktop](RMM/DistantDesktop/RMM_Summary_DistantDesktop.md)
 - [DWService](RMM/DWService/RMM_Summary_DWService.md)
