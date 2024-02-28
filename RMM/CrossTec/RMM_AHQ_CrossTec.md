@@ -1,4 +1,4 @@
-# Advanced Hunting Query for NetSupport
+# Advanced Hunting Query for CrossTec
 
 ### Create Process 
 ```
@@ -8,10 +8,14 @@ let Time_end = now();
 let rmmProcess = 
 DeviceProcessEvents 
 | where Timestamp between (Time_start..Time_end)
-| where ProcessVersionInfoCompanyName has 'netsupport'
+| where ProcessVersionInfoCompanyName has_any (
+        'CrossTec',
+        'NetSupport'
+    )
+    and ProcessVersionInfoProductName has 'CrossTec Remote'
 | summarize FirstSeen=min(Timestamp), LastSeen=max(Timestamp), 
     Report=make_set(ReportId), Count=count() by DeviceId, DeviceName, AccountUpn 
-| extend rmmProcessName = 'NetSupport' 
+| extend rmmProcessName = 'CrossTec' 
 ; 
 rmmProcess
 ```
@@ -25,12 +29,12 @@ let rmmFileSig =
 DeviceFileCertificateInfo
 | where Timestamp between (Time_start..Time_end)
 | where Signer has_any (
-    'NetSupport',
-    'CrossTec'
+        'CrossTec',
+        'NetSupport'
     )
 | summarize FirstSeen=min(Timestamp), LastSeen=max(Timestamp), 
     Report=make_set(ReportId), Count=count() by DeviceId, DeviceName
-| extend rmmFileSigName = 'NetSupport' 
+| extend rmmFileSigName = 'CrossTec' 
 ;
 rmmFileSig
 ```
@@ -43,12 +47,19 @@ let Time_end = now();
 let rmmNetwork = 
 DeviceNetworkEvents
 | where Timestamp between (Time_start..Time_end)
-| where RemoteUrl has 'netsupportsoftware.com'
-    and InitiatingProcessVersionInfoCompanyName has 'netsupport'
+| where RemoteUrl has_any (
+        'geo.netsupportsoftware.com',
+        'activate.netsupportsoftware.com'
+    )
+    and InitiatingProcessVersionInfoCompanyName has_any (
+        'CrossTec',
+        'NetSupport'
+    )
+    and InitiatingProcessVersionInfoProductName has 'CrossTec Remote'
 | summarize FirstSeen=min(Timestamp), LastSeen=max(Timestamp), 
     Report=make_set(ReportId), Count=count() by DeviceId, DeviceName,
     AccountUpn, RemoteUrl 
-| extend rmmNetworkName = 'NetSupport'
+| extend rmmNetworkName = 'CrossTec'
 ;
 rmmNetwork
 ```
