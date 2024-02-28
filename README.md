@@ -34,6 +34,7 @@ This collection of Remote Management Monitoring tool artifacts is focused on pro
 - [DesktopNow](RMM/DesktopNow/RMM_Summary_DesktopNow.md)
 - [DistantDesktop](RMM/DistantDesktop/RMM_Summary_DistantDesktop.md)
 - [DWService](RMM/DWService/RMM_Summary_DWService.md)
+- [EHorus](RMM/EHorus/RMM_Summary_EHorus.md)
 - [FleetDeck](RMM/FleetDeck/RMM_Summary_FleetDeck.md)
 - [GetScreen](RMM/GetScreen/RMM_Summary_GetScreen.md)
 - [IperiusRemote](RMM/IperiusRemote/RMM_Summary_IperiusRemote.md)
