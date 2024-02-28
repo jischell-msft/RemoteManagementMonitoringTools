@@ -27,6 +27,7 @@ This collection of Remote Management Monitoring tool artifacts is focused on pro
 - [ChromeRDP](RMM/ChromeRDP/RMM_Summary_ChromeRDP.md)
 - [ConnectWise](RMM/ConnectWise/RMM_Summary_ConnectWise.md)
 - [CrossLoop](RMM/CrossLoop/RMM_Summary_CrossLoop.md)
+- [CrossTec](RMM/CrossTec/RMM_Summary_CrossTec.md)
 - [DameWare](RMM/DameWare/RMM_Summary_DameWare.md)
 - [DattoRMM](RMM/DattoRMM/RMM_Summary_DattoRMM.md)
 - [DesktopNow](RMM/DesktopNow/RMM_Summary_DesktopNow.md)
